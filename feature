@@ -1,4 +1,4 @@
 
-conflict 1
+conflict-feature 1
 
 
