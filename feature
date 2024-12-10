@@ -1,6 +1,5 @@
 
-
-conflict feature 2
+conflict feature 3
 
 
 
