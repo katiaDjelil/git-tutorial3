@@ -1,5 +1,5 @@
 
-conflict feature 3
+This is just to resole the conflict
 
 
 
